@@ -23,11 +23,12 @@ Login via login.html.
 
 Play the quiz on index.html.
 
+🎉
+Download Zip file and Run.
+
 🛠️ Tech
 Frontend: HTML, CSS, JavaScript
 
 Responsive Design: Works well on all devices
 
 
-👤 Author
-Jannatul Ferdousy Tonni
