@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Madrid", "Berlin", "Paris", "Lisbon"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which of these are programming languages?",
+    "options": ["Python", "Snake", "JavaScript", "Banana"],
+    "answer": ["Python", "JavaScript"]
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "CO2", "H2O", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which of these animals can fly?",
+    "options": ["Cat", "Parrot", "frog", "Dog"],
+    "answer": ["Parrot"]
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": ["365", "366", "364", "367"],
+    "answer": "366"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Mars", "Earth", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which of the following are colors?",
+    "options": ["Blue", "Cup", "Redas", "Chair"],
+    "answer": ["Blue"]
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": ["8", "9", "10", "7"],
+    "answer": "9"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the process of water turning into vapor called?",
+    "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which of these are renewable energy sources?",
+    "options": ["Solar", "Wind", "Coal", "Gasoline"],
+    "answer": ["Solar"]
+  },
+  {
+    "question": "How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which instrument has keys, pedals, and strings?",
+    "options": ["Guitar", "Drum", "Piano", "Flute"],
+    "answer": "Piano"
+  },
+  {
+    "question": "Which country is known for sushi?",
+    "options": ["China", "Japan", "Thailand", "India"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "110°C", "80°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which of these are mammals?",
+    "options": ["Dolphin", "none", "Shark", "Octopus"],
+    "answer": ["Dolphin"]
+  },
+  {
+    "question": "What is 15 + 6?",
+    "options": ["21", "20", "22", "23"],
+    "answer": "21"
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "options": ["Earth", "Venus", "Mercury", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What do bees collect from flowers?",
+    "options": ["Honey", "Nectar", "Water", "Leaves"],
+    "answer": "Nectar"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Lettuce", "Cucumber"],
+    "answer": "Avocado"
+  },
+  {
+    "question": "What color do you get when you mix red and white?",
+    "options": ["Pink", "Orange", "Purple", "Green"],
+    "answer": "Pink"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "options": ["Euro", "Dollar", "Pound", "Yen"],
+    "answer": "Dollar"
+  },
+  {
+    "question": "Which two animals are reptiles?",
+    "options": ["Frog", "Crocodile", "None", "Penguin"],
+    "answer": ["Crocodile"]
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "Which number comes next in the sequence: 2, 4, 6, 8, __?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "10"
+  },
+  {
+    "question": "What type of animal is a Labrador?",
+    "options": ["Cat", "Bird", "Dog", "Fish"],
+    "answer": "Dog"
+  },
+  {
+    "question": "Which of these are vegetables?",
+    "options": ["Potato", "Carrot", "Apple", "Grapes"],
+    "answer": ["Potato"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "10°C", "5°C", "1°C"],
+    "answer": "0°C"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Da Vinci", "Picasso", "Michelangelo"],
+    "answer": "Da Vinci"
+  },
+  {
+    "question": "How many hours are in a day?",
+    "options": ["24", "12", "48", "30"],
+    "answer": "24"
+  },
+  {
+    "question": "What do you use to browse the internet?",
+    "options": ["Browser", "Notebook", "Keyboard", "Television"],
+    "answer": "Browser"
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Lungs", "Heart", "Liver", "Brain"],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the first month of the year?",
+    "options": ["January", "February", "March", "December"],
+    "answer": "January"
+  },
+  {
+    "question": "Which two are types of software?",
+    "options": ["Word Processor", "Hammer", "sheet", "Nail"],
+    "answer": ["Word Processor"]
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following is a type of bird?",
+    "options": ["Eagle", "Turtle", "Snake", "Dolphin"],
+    "answer": "Eagle"
+  },
+  {
+    "question": "Which of these are string instruments?",
+    "options": ["Violin", "Guitar", "Flute", "Drum"],
+    "answer": ["Violin"]
+  },
+  {
+    "question": "What is the result of 12 + 13?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "25"
+  },
+  {
+    "question": "Which is a web browser?",
+    "options": ["Google Chrome", "Windows", "Android", "Microsoft Word"],
+    "answer": "Google Chrome"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "26"
+  },
+  {
+    "question": "Which of these are computer operating systems?",
+    "options": ["Windows", "Linux", "Chrome", "Facebook"],
+    "answer": ["Windows"]
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": ["Triangle", "Square", "Circle", "Hexagon"],
+    "answer": "Triangle"
+  },
+  {
+    "question": "Which of these are web technologies?",
+    "options": ["HTML", "CSS", "Excel", "Paint"],
+    "answer": ["HTML"]
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "options": ["Portuguese", "Spanish", "English", "French"],
+    "answer": "Portuguese"
+  },
+  {
+    "question": "What is 9 × 3?",
+    "options": ["27", "26", "28", "29"],
+    "answer": "27"
+  },
+  {
+    "question": "What is the third planet from the Sun?",
+    "options": ["Venus", "Mars", "Earth", "Saturn"],
+    "answer": "Earth"
+  }
+]

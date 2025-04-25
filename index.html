@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Web App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1> <span style="color: #56a5eb;">Quiz</span> With <span style="color: #56a5eb;">Quiz Web App</span></h1>
+    <div id="quiz-container" class="container">
+      
+        <button id="theme-toggle"><span id="theme-icon">🌙</span></button>
+
+
+        <div id="hud">
+            <div id="hud-item">
+                <div class="hud-prefix">Time</div>
+                <div id="timer" class="hud-main-text">05:00</div>
+            </div>
+            <div id="hud-item">
+                <div class="hud-prefix">Answer The <span style="color:#56a5eb;">Question</span></div>
+            </div>
+            <div id="score-display">
+                <p id="total-score">Total score: 15</p>
+                <p id="current-score">Your score: 0</p>
+              </div>
+            
+        </div>
+        <h2 id="question">Question will be appeare here?</h2>
+        <div id="choices" class="choice-container">
+            <button class="btn">Option 1</button>
+            <button class="btn">Option 2</button>
+            <button class="btn">Option 3</button>
+            <button class="btn">Option 4</button>
+        </div>
+        <div id="progress-container">
+            <div id="progressBar">
+                <div id="progressBarFull"></div>
+            </div>
+            <p id="progress-text">0 of 15</p>
+        </div>
+        
+        <div id="timer-text" class="timer-text"></div>
+        <button id="restart-btn" class="hidden">Restart Quiz</button>
+
+    </div>
+    <a href="login.html" id="logout-link"><span style="font-size: medium; font-weight: 700; color: rgb(214, 19, 58);">Logout</span></a>
+
+    <script src="script.js"></script>
+    <script src="auth.js"></script>
+</body>
+</html>
